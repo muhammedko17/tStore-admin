@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "942554870984-7tutk5bkqv3pp6a6jqb1048u8bmaumur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingwitht.ecommerce.tstore_ecommerce_app",
+            "certificate_hash": "30604979383bff7463405419e7792139b8285a48"
+          }
+        },
+        {
           "client_id": "942554870984-8g7f9r60prk8onc8rsgtp29680mo0gm8.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -39,10 +47,10 @@
               "client_type": 3
             },
             {
-              "client_id": "942554870984-aeb9q19mmpckr7sv1nhue2emfep35f1i.apps.googleusercontent.com",
+              "client_id": "942554870984-6m1a4fa7cuqt8goe9gkb77pcrpuim65p.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.codingwitht.ecommerce.tstoreEcommerceApp"
+                "bundle_id": "com.example.cwtEcommerceAdminPanel"
               }
             }
           ]
@@ -75,10 +83,10 @@
               "client_type": 3
             },
             {
-              "client_id": "942554870984-aeb9q19mmpckr7sv1nhue2emfep35f1i.apps.googleusercontent.com",
+              "client_id": "942554870984-6m1a4fa7cuqt8goe9gkb77pcrpuim65p.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.codingwitht.ecommerce.tstoreEcommerceApp"
+                "bundle_id": "com.example.cwtEcommerceAdminPanel"
               }
             }
           ]

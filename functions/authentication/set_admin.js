@@ -2,7 +2,9 @@ const { onCall } = require("firebase-functions/v2/https");
 const { getAuth } = require("firebase-admin/auth");
 
 // Add Admin Role Function
-exports.addAdminRole = onCall(async (request) => {
+exports.addAdminRole = onCall(
+{ region: 'us-central1', invoker: 'public' },
+async (request) => {
   const { email } = request.data;
 
   if (!email || typeof email !== "string") {
@@ -12,6 +14,8 @@ exports.addAdminRole = onCall(async (request) => {
   try {
     // Fetch user by email
     const user = await getAuth().getUserByEmail(email);
+
+    console("User", user);
 
     // Check if user already has the admin role
     if (user.customClaims?.admin) {
