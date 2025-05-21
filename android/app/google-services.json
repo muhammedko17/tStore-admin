@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "942554870984",
+    "project_id": "ecommerce-app-12c8c",
+    "storage_bucket": "ecommerce-app-12c8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942554870984:android:244a8f7a8ca2d7fc32a1fd",
+        "android_client_info": {
+          "package_name": "com.codingwitht.ecommerce.tstore_ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942554870984-8g7f9r60prk8onc8rsgtp29680mo0gm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingwitht.ecommerce.tstore_ecommerce_app",
+            "certificate_hash": "50fba0905cccdb37c1582b557346e88dec6bbab8"
+          }
+        },
+        {
+          "client_id": "942554870984-u23g1quunmge9b17bm19cn9clj547qjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-CYlLDQuw70ySLZuvBHK9yJhr_BKY7uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942554870984-q8jncnede26sondf2nl8kje4q3gtfec5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942554870984-aeb9q19mmpckr7sv1nhue2emfep35f1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codingwitht.ecommerce.tstoreEcommerceApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942554870984:android:1f8f30821bb9a83632a1fd",
+        "android_client_info": {
+          "package_name": "com.example.cwt_ecommerce_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942554870984-u23g1quunmge9b17bm19cn9clj547qjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-CYlLDQuw70ySLZuvBHK9yJhr_BKY7uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942554870984-q8jncnede26sondf2nl8kje4q3gtfec5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942554870984-aeb9q19mmpckr7sv1nhue2emfep35f1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codingwitht.ecommerce.tstoreEcommerceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
